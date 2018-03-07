@@ -1,5 +1,7 @@
-def my_collect
+def my_collect(collection)
+  i = 0
 
+  
 
 
 end
